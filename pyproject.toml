@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nft-sets"
-version = "0.1.0"
+version = "0.1.1"
 description = "Generate sets of images from a collection of layer files"
 authors = ["DJ Stomp & Shadowdrums7331 <85457381+djstompzone@users.noreply.github.com>"]
 license = "MIT"

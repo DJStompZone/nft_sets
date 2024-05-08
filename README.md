@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-`nft_sets` is a Python project designed for creating generative image sets, suitable for applications like NFT creation. It uses configuration-driven design to generate every possible combination of image layers, such as heads, bodies, eyes, etc., from provided assets. This allows for extensive customization and easy scalability.
+`nft_sets` is a Python project designed for creating generative image sets, suitable for applications like NFT creation. It uses configuration-driven design to generate every possible combination of image layers, such as heads, bodies, eyes, etc., from provided assets. This allows for extensive customization and easy scalability for your next NFT project.
 
 ## Features
 
@@ -36,7 +36,7 @@ nft_sets/
 
 2. **Install dependencies:**
 
-   This project requires Python 3.6 or higher and PIL (Pillow). Ensure you have Python installed, then set up a virtual environment and install the required packages:
+   This project requires Python 3.12 or higher and PIL (Pillow). Ensure you have Python installed, then set up a virtual environment and install the required packages:
 
    - Linux/Mac:
    ```bash
