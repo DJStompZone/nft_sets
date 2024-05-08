@@ -1,0 +1,42 @@
+{
+    "set_name": "ExampleImageSet",
+    "layers": [
+      {
+        "partName": "background",
+        "assetsLocation": "./assets/backgrounds",
+        "zIndex": 1,
+        "mode": "normal"
+      },
+      {
+        "partName": "body",
+        "assetsLocation": "./assets/bodies",
+        "zIndex": 2,
+        "mode": "merge"
+      },
+      {
+        "partName": "head",
+        "assetsLocation": "./assets/heads",
+        "zIndex": 3,
+        "mode": "merge"
+      },
+      {
+        "partName": "eyes",
+        "assetsLocation": "./assets/eyes",
+        "zIndex": 4,
+        "mode": "overlay"
+      },
+      {
+        "partName": "mouth",
+        "assetsLocation": "./assets/mouths",
+        "zIndex": 5,
+        "mode": "overlay"
+      },
+      {
+        "partName": "accessories",
+        "assetsLocation": "./assets/accessories",
+        "zIndex": 6,
+        "mode": "screen"
+      }
+    ]
+  }
+  
