@@ -1,5 +1,8 @@
 # NFT Sets
 
+![image](https://github.com/DJStompZone/nft_sets/assets/85457381/77905831-54ff-4e35-b55f-234e6319c512)
+
+
 ## Project Overview
 
 `nft_sets` is a Python project designed for creating generative image sets, suitable for applications like NFT creation. It uses configuration-driven design to generate every possible combination of image layers, such as heads, bodies, eyes, etc., from provided assets. This allows for extensive customization and easy scalability for your next NFT project.
